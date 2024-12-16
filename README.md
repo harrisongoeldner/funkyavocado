@@ -1,4 +1,4 @@
-# FunkyApple Docs
+# Funky Avocado Docs
 
 These are a collection of documents intended for education purposes. If you are interested in contributing, feel free to make a PR. 
 

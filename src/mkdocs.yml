@@ -1,12 +1,12 @@
 site_name: FunkyApple Docs
-site_url: https://funkyapple.dev
-repo_url: https://github.com/funkyapple/docs
-repo_name: funkyapple/docs
+site_url: https://funkyavocado.dev
+repo_url: https://github.com/harrisongoeldner/funkyavocado
+repo_name: harrisongoeldner/funkyavocado
 extra_css:
   - stylesheets/extra.css
   
 extra:
-  homepage: https://funkyapple.dev
+  homepage: https://funkyavocado.dev
 
 theme: 
   name: material
